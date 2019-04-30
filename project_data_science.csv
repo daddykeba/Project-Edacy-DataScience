@@ -1,0 +1,61 @@
+Nom,Prénom,Adresse,Moyenne,Age,Région,Spécialité,Sexe
+Fall,Mamadou,Mermoz,14.5,18,Dakar,Math-Physique-SVT(S2),M
+Sy,Sawoudatou,Parcelles U17,12.67,20,Dakar,Math-Physique-SVT(S2),F
+Diop,Abdou,Karack,9.12,22,Dakar,Technique(T),M
+Badiane,Germaine,Sicap,17.56,20,Dakar,Math-Physique(S1),F
+Diedhiou,Idrissa,Point E,11.01,21,Ziguinchor,Langues étranères(L1),M
+Mendy,Gabriel,Mermoz,14.5,18,Ziguinchor,Math-Physique(S1),M
+Ndoye,Fatou,Yoff,8.68,18,Dakar,Langues(L2),F
+Seck,Astel,Liberté 3,12.5,21,Thies,Math-Physique-SVT(S2),F
+Diedhiou,Keba Mbaye,Yoff,16.05,20,Dakar,Math-Physique-SVT(S2),M
+Sow,Djiby,Grand yoff,7.98,22,Matam,Technique(T),M
+Fall,Gora,Pikine,13.24,22,Louga,Math-Physique(S1),M
+Diagne,Saly,Diamalaye,13,18,Dakar,Langues étranères(L1),F
+Gueye,Rokhaya,Fass,5.14,17,Saint-Louis,Math-Physique-SVT(S2),F
+Gomis,Emma,Pikine,9.12,21,Dakar,Langues(L2),F
+Faye,Omar,Biagui,12.5,18,Dakar,Langues(L2),M
+Tamba,Demba,Rufique,9.45,18,Fatick,Technique(T),M
+Kebe,Saer,Sipres,11.65,23,Kaolack,Math-Physique-SVT(S2),M
+Ndir,Arame,Ouakam,14,20,Dakar,Langues(L2),F
+Ka,Aminata,Mermoz,6.59,20,Dakar,Math-Physique-SVT(S2),F
+Badji,Mamadou,Guediawaye,10.68,23,Kolda,Math-Physique-SVT(S2),M
+Mbaye,Sokhati,Bargny,16.5,20,Dakar,Langues étranères(L1),F
+Faye,Therese,Liberte 5,8.23,18,Thies,Langues(L2),F
+Mane,Faouzy,Dalifort,12.3,22,ziguinchor,Math-Physique-SVT(S2),M
+Ndoye,Ali,Plateau,11.98,20,Dakar,Technique(T),M
+Konate,Awa,Sicap,7.45,21,Kedougou,Langues étranères(L1),F
+Diouf,Emilie,Parcelle U17,15.5,18,Fatick,Math-Physique-SVT(S2),F
+Seck,Daour,Ngor,12.5,22,Dakar,Math-Physique-SVT(S2),M
+Diene,Ali,Golf,9.08,20,Dakar,Technique(T),M
+Sène,Ami,Ouakam,13.12,18,Kaffrine,Langues(L2),F
+Diop,Fatou Bintou,Mermoz,9.35,18,Saint-Louis,Math-Physique-SVT(S2),F
+Sy,Moussa,Fass,14,18,Kolda,Technique(T),M
+Diatta,Bakary,Mermoz,8.5,22,Ziguinchor,Math-Physique-SVT(S2),M
+Boye,Anta,HLM,12,22,Kaolack,Langues étranères(L1),F
+Sonko,Sophie,Mbao,10.5,18,Kaolack,Langues(L2),F
+Dione,Omar,Cap Manuel,12.08,18,Dakar,Math-Physique(S1),M
+Diombera,Mamadou,Petit Mbao,14.5,18,Matam,Langues(L2),M
+Diagne,Matar,Ouakam,14.5,22,Dakar,Langues étranères(L1),M
+Dieng,Seyda,Diamalaye,11.5,19,Diourbel,Technique(T),M
+Coly,Fatou,Virage,8.25,21,Ziguinchor,Math-Physique-SVT(S2),F
+Ndiaye,Maguette,Yoff,12.5,18,Thies,Langues(L2),F
+Sock,Amidou,Tiléne,9.5,20,Sedhiou,Math-Physique-SVT(S2),M
+Diamanka,Oulimata,Biagui,15.5,18,Dakar,Langues étranères(L1),F
+Diarra,Seynabou,Baobab,7.22,21,Dakar,Math-Physique-SVT(S2),F
+Mbao,Maimouna,Keur Massar,12.5,18,Dakar,Math-Physique-SVT(S2),F
+Djiba,Ismael,Camberene,11.5,22,Dakar,Langues étranères(L1),M
+Diouf,Saloum,Ouest Foire,7.24,17,Fatick,Technique(T),M
+Zakou,Seydou,Dieupeul,14.5,22,Dakar,Math-Physique(S1),M
+Niang,Khardiata,Plateau,15.60,18,Saint-Louis,Langues(L2),F
+Dem,Ahmet,Mermoz,13.5,21,Sedhiou,Langues(L2),M
+Sall,Marietou,Fass,11,18,Dakar,Math-Physique-SVT(S2),F
+Tendeng,Mimi,Rufisque,6.5,20,Ziguinchor,Langues étranères(L1),F
+Ngom,Marame,Dieupeul,14.5,19,Diourbel,Math-Physique(S1),F
+Diallo,Saliou,Bargny,9.5,18,Talbacounda,Langues étranères(L1),M
+Mendy,Olivier,Guediawaye,10,22,Ziguinchor,Langues étranères(L1),M
+Wédémé,Henriette,Point E,16,18,Dakar,Technique(T),F
+Niang,Maissa,Thiaroye,11.5,18,Thies,Math-Physique-SVT(S2),M
+Faty,Bassirou,Malika,7.23,22,Louga,Math-Physique-SVT(S2),M
+Faye,Tissilia,Almadies,16.25,20,Fatick,Langues(L2),F
+Diack,Aissata,Malika,9.75,18,Dakar,Technique(T),F
+Lo,Moussa,Yoff,13,22,Dakar,Langues étranères(L1),M
